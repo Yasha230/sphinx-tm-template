@@ -15,4 +15,5 @@ Tutoriel Sphinx / MyST
     fonctionnement.md
     bases.md
     inserer-code.md
+    Image_insert.md
     advanced-features.md

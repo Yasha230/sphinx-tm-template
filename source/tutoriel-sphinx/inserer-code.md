@@ -60,6 +60,11 @@ def foo(a, b):
 ````
 `````
 
+```python
+ from math import pi
+
+```
+
 ## Insérer du code depuis un fichier externe
 
 Il est également possible d'inclure du code dans la documentation depuis un fichier externe, au lieu d'avoir à écrire copier le code directement dans le fichier `.md`.
