@@ -1,4 +1,4 @@
-# Projet 1
+# Projet 1: Commander le drone avec le clavier d'ordinateur
 
 ## Intoduction au projet
 
