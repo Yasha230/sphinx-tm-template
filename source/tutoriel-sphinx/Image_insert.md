@@ -1,6 +1,6 @@
 # insérer des images
 
-```{figure} figures/make-html.png
+```{figure} figures/image 1.JPG
 --- 
 width: 50%
 ---
