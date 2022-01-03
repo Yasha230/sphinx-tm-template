@@ -18,4 +18,9 @@ Une fois que l'installation est faite nous allons pouvoir importer la bibliothè
 from djitellopy import tello
 from time import sleep
 ```
+Ensuite pour se connecter au Tello drone, il faut créer un "objet" Tello, le nommer et le connecter.
 
+```python
+dragonfly = tello.Tello()
+dragonfly.connect()
+```

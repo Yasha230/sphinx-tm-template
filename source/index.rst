@@ -11,7 +11,10 @@ Titre du travail de maturité
     :caption: Table des matières
 
     introduction.md
-    chapitre-01.md
+    Avant projet.md
+    Chapitre 1_projet 1.md
+    Chapitre 2_projet 2.md
+
     todo.rst
 
 ..  toctree::
