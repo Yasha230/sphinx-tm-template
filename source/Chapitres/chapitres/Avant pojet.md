@@ -6,7 +6,7 @@ Pour les projects qui suivent, les codes seront écrit en langage de programatio
 
 ## Installations de base
 
-La première chose qu'il nous faud pour commencer à programmer le drone est la bibliothèque du TELLO drone. Pour cela, il nous faut télécharger le "pakage" depluis l'onglet "File" sous "settings".
+La première chose qu'il nous faut pour commencer à programmer le drone est la bibliothèque du TELLO drone. Pour cela, il nous faut télécharger le "pakage" depluis l'onglet "File" sous "settings".
 
 ```{figure} figures/image 1.JPG
 
