@@ -4,6 +4,12 @@
 
 Pour les projects qui suivent, les codes seront écrit en langage de programation Python3 et l'editeur utilisé sera Pycharm community.
 
+### Comment fonctionne un drone ?
+
+flight directions ?
+physics behind ?
+mechanic (basic)?
+
 ## Installations de base
 
 La première chose qu'il nous faut pour commencer à programmer le drone est la bibliothèque du TELLO drone. Pour cela, il nous faut télécharger le "pakage" depluis l'onglet "File" sous "settings".
