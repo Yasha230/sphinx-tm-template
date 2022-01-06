@@ -4,11 +4,6 @@
 
 Pour les projects qui suivent, les codes seront écrit en langage de programation Python3 et l'editeur utilisé sera Pycharm community.
 
-### Comment fonctionne un drone ?
-
-flight directions ?
-physics behind ?
-mechanic (basic)?
 
 ## Installations de base
 
