@@ -30,3 +30,7 @@ dragonfly = tello.Tello()
 dragonfly.connect()
 ```
 Il est possible maintenant de s'amuser à programmer le drone comme l'on programmerai la tortue de python. Tout les commandes pour le drone sont accesible en mettant le curseur sur l'un des commandes déjà appelé, ensuite appuyant sur la touche contôle ("Ctrl") et cliquant. Cela nous revoie à la bibliothèque du Tello drone avec la liste des commandes disponible.
+
+```{figure} figures / tello library.JPG
+
+```
