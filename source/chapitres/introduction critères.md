@@ -4,6 +4,14 @@
 Ce chapitre d'introduction doit être complété avec les informations concernant le chapitre d'introduction au TM. 
 ```
 
+```{raw} html
+```{youtube}
+
+```
+```
+
+
+
 À compléter ... avec les informations concernant le chapitre d'introduction au TM. 
 
 ## Informations à inclure pour un TM de type "outil"

@@ -8,26 +8,14 @@ Titre du travail de maturité
 
 ..  toctree::
     :maxdepth: 2
-    :caption: Table des matières
-
-    introduction.md
-    Avant projet.md
-    Chapitre 1_projet 1.md
-    Chapitre 2_projet 2.md
-
-    todo.rst
-
-..  toctree::
-    :maxdepth: 2
     :caption: Tutoriel Sphinx
 
+    chapitres/index.rst
     tutoriel-sphinx/index.rst
 
+..
+    Indices and tables
+    ==================
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
+    * :ref:`genindex`
+    * :ref:`search`
